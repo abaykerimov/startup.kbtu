@@ -1,3 +1,3 @@
-# startup.kbtu using PHP&MySQL
+# startup.kbtu using PHP&MySQL&AJAX
 
 developed 2 years ago
